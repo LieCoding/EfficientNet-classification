@@ -3,7 +3,8 @@
 
 使用说明： 
 1. 运行part_1.ipynb文件，生成prefc.pth文件 
-2.运行1结束 后，运行part_2.ipynb文件，生成all_bestmodel.pth文件，all_bestmodel.pth为最后的模型文件。 
+ 
+2.运行1结束后，运行part_2.ipynb文件，生成all_bestmodel.pth文件，all_bestmodel.pth为最后的模型文件。 
 
 
 代码使用的是华为云的ModelArts的moxing接口来拉取比赛文件， 
